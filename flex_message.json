@@ -1,12 +1,4 @@
-# LINE Flex Message JSON Template
 
-This repository contains a sample JSON template for a LINE Flex Message. The template is designed to create a rich bubble message with an image, title, rating stars, and contact information.
-
-## JSON Template
-
-The JSON template can be used to create a Flex Message bubble in LINE's Messaging API. Below is a brief description of the JSON structure.
-
-```json
 {
   "type": "bubble",
   "hero": {
